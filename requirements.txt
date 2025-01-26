@@ -6,6 +6,7 @@ dnspython
 ffmpeg-python
 gitpython
 pyfiglet
+SafoneAPI
 googlesearch-python
 hachoir
 heroku3
