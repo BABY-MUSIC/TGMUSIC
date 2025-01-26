@@ -6,6 +6,7 @@ dnspython
 ffmpeg-python
 gitpython
 pyfiglet
+googlesearch-python
 hachoir
 heroku3
 httpx[http2]==0.27.2
